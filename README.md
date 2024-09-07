@@ -1,0 +1,2 @@
+# compression
+Simple compression algorithm
